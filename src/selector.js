@@ -742,3 +742,4 @@ LocalCollection._compileSort = function (spec) {
 
 exports.compileDocumentSelector = compileDocumentSelector;
 exports.compileSort = LocalCollection._compileSort;
+exports.LocalCollection = LocalCollection;
